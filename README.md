@@ -1,2 +1,2 @@
 # repozytorium1
-pierwsze repozytorium
+# repozytorium1
